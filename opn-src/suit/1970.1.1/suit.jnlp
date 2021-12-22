@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<jnlp spec="1.0" codebase="$$codebase" href="$$codebasesuit.jnlp?whitelabel=$$whitelabel">
+	<information>
+		<title>Thinkorswim Suit</title>
+		<vendor>$$vendor</vendor>
+		<version>1970.1.1</version>
+	</information>
+	<security>
+		<all-permissions/>
+	</security>
+	<resources>
+        <j2se version="1.7+" href="http://java.sun.com/products/autodl/j2se"/>
+		<jar href="launcher.jar" size="14711" md5="7fae11361f12d5dda1833208c3eb3fa" version="1970.1.1" main="false"/>
+		<jar href="svg-salamander-1.1.2.2.jar" size="312623" md5="e3caa87ce7a61721ff9eb19f39288ec" version="1970.1.1" main="false"/>
+		<jar href="tos-suit-1970.1.1.jar" size="9770080" md5="95ee179f6ff578d17ddcb7752211b717" version="1970.1.1" main="true"/>
+		<jar href="toscommon-client-499.3.jar" size="265127" md5="841975e87bbbce12222112c2459c3b5c" version="1970.1.1" main="false"/>
+		<jar href="tzdata-20180503.jar" size="358051" md5="a854ff9326acb88da2f50a678298343" version="1970.1.1" main="false"/>
+		<jar href="ziupdater-1.0.1.2.jar" size="283489" md5="7d92d74e3fa7b5b0af48f0e7fe435f51" version="1970.1.1" main="false"/>
+	</resources>
+    <application-desc main-class="com.devexperts.jnlp.UpdateManager"/>
+</jnlp>

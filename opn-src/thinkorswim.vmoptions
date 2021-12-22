@@ -1,0 +1,8 @@
+-Xmx3072m
+-Xms1024m
+-Djava.util.Arrays.useLegacyMergeSort=true
+-Dawt.useSystemAAFontSettings=lcd_hrgb
+-Dsun.net.http.allowRestrictedHeaders=true
+-classpath/p launcher-first.jar
+-Djxbrowser.logging.level=INFO
+-XX:MaxPermSize=256m

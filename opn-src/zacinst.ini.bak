@@ -1,0 +1,13 @@
+application.login=
+application.server_url=team.thinkorswim.com:7002,team.thinkorswim.com:443
+application.login.suffix=
+proxy.list=
+application.language=en-US
+application.lafsize=Small
+application.controlssize=normal
+application.plaf=com.devexperts.tos.ui.user.plaf.TosDarkLookAndFeel
+application.log.symbols.list=
+application.connection_string=(team.thinkorswim.com:7002,team.thinkorswim.com:443)(demo.thinkorswim.com:7002,demo.thinkorswim.com:443)
+installer.launch.param.0=null
+application.remember_user=true
+application.usesystemfonts=false

@@ -1,0 +1,1032 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_152 (Oracle Corporation)
+
+Name: plugins/libudp_plugin.dylib
+SHA-256-Digest: AmVMvqGUfli8qq+FSNj9dEAQEEBGZzQyI+mVcBeuve8=
+
+Name: plugins/libtwolame_plugin.dylib
+SHA-256-Digest: aJDElGrfeJWr+oJBIHVX5y0Fryur24a5pcOgv7lw1ws=
+
+Name: plugins/libx264_plugin.dylib
+SHA-256-Digest: h6x/ntveyQc8ceV8d4hsuZ1Has24gewWQ+/bX//1nmw=
+
+Name: plugins/libgradfun_plugin.dylib
+SHA-256-Digest: tllQvul/9eh9HLX6BYO348BfTkeTSL4+RrCKCOuDCVk=
+
+Name: plugins/libpsychedelic_plugin.dylib
+SHA-256-Digest: XC1nzqy8VPvj/NiDKYQPQNk2VsE3UuqrnH5Hs21KKgE=
+
+Name: plugins/libvdummy_plugin.dylib
+SHA-256-Digest: znCgg14GmQX1tToLZx933uFcSM6QRJA/RQYFJ1GmXa8=
+
+Name: plugins/libdemux_chromecast_plugin.dylib
+SHA-256-Digest: iI/Y0QxGzae3DmRrL9HxEv09KBNmltXm0iXcLefQ8gs=
+
+Name: plugins/libalphamask_plugin.dylib
+SHA-256-Digest: ykwlla33KI/vL5vrJVrGQvr1GlBKUUAk3UedhvG0c1k=
+
+Name: plugins/libspatialaudio_plugin.dylib
+SHA-256-Digest: BUIQ9YPJkB+SGPK56nbQHtLqE2KXzkiKX/G1+EAZbHw=
+
+Name: plugins/libmux_mp4_plugin.dylib
+SHA-256-Digest: 3L2Yy+HQVlVYVCak0r+dc4buNhUQ1x38SlDPOgWUrtw=
+
+Name: plugins/librawvid_plugin.dylib
+SHA-256-Digest: Yf9QrhfZAaExilv0ZKVtj8k0NRjQ8vwLEIDC3gWiC1w=
+
+Name: plugins/libjpeg_plugin.dylib
+SHA-256-Digest: i7BlSdnx9dqW3J9NqbI3Bj3yYfy/28xONksJl5ffgR0=
+
+Name: plugins/libstream_out_description_plugin.dylib
+SHA-256-Digest: 653rxmaAPXaYiIooRpkwG+GVBmxhoukoGJcJx/ERtic=
+
+Name: plugins/libstream_out_setid_plugin.dylib
+SHA-256-Digest: MwG30bCdgCsDqG0lUbV++oqQESuan+H4elvC0XoViYQ=
+
+Name: plugins/libtospdif_plugin.dylib
+SHA-256-Digest: olGPeTw5sTspNHV4V5AAB32QxgFxC/Gz2dV0Zymv1jc=
+
+Name: plugins/libnfs_plugin.dylib
+SHA-256-Digest: 1K9amxk56N+iJsgrjWyZKe1e0TrJEQx6FTCNvNWQKK0=
+
+Name: plugins/libbonjour_plugin.dylib
+SHA-256-Digest: Vg/hXanVEBeoKb22INVm4AQyv+8185cPJ/EBbW4ZfPA=
+
+Name: plugins/libstream_out_standard_plugin.dylib
+SHA-256-Digest: ZccvIfGiyujqyevbZ1rWicCB5OIz5MyqzrJCL0t/0Dc=
+
+Name: plugins/libpodcast_plugin.dylib
+SHA-256-Digest: 1Zz8iUeVE8EsF/hiUJT/xEsiWgd/cawOjhbLPuanHcI=
+
+Name: lib/libvlccore.dylib
+SHA-256-Digest: U3q5TefyFUte5yCcagEtzFPE5N2J2QQgE/t26sfHstU=
+
+Name: plugins/libinflate_plugin.dylib
+SHA-256-Digest: OE2Xr8gRL7ExZfb12htKkomZwPHDQfq/HdTJHEErqUA=
+
+Name: plugins/libpacketizer_vc1_plugin.dylib
+SHA-256-Digest: c7AAR1QXlVWV2/ymZm5YeLG7Wvd72KN9BZxEIRZvtn8=
+
+Name: plugins/libmagnify_plugin.dylib
+SHA-256-Digest: 2lvILnjy6i3bDhsziE3UE5cwXvjSv4m+3oJJlHpu7Lk=
+
+Name: plugins/libpacketizer_mpegaudio_plugin.dylib
+SHA-256-Digest: pMa7tcXekaxEgL9CJVP93L6g6tMjrKH+C0nSUIbYQMc=
+
+Name: plugins/libstream_out_autodel_plugin.dylib
+SHA-256-Digest: YS3saKGUxcQYBKbR0q/uCtqQgkRtWmxyaRa1D5Wxttk=
+
+Name: plugins/libh26x_plugin.dylib
+SHA-256-Digest: p9j3w3d0t2OL1id/PXzoDxb6ToCbsGqvNwlm8KEHcbQ=
+
+Name: plugins/libripple_plugin.dylib
+SHA-256-Digest: Lal46Irh1uzTmuo57R0oXIqIv2dxNtYr2ZwkcsoqeRQ=
+
+Name: plugins/libspudec_plugin.dylib
+SHA-256-Digest: lG14AyLrg7t+k45TDQdEpkXY15Q6ljlTHWjttrrmNZg=
+
+Name: plugins/libvoc_plugin.dylib
+SHA-256-Digest: rRlpiJZxOrw6bPCFFZ4h9A5oNc/Fe6nH1Zr5i3WMctQ=
+
+Name: plugins/libaddonsfsstorage_plugin.dylib
+SHA-256-Digest: uKpiSQ2XTOUZrcqsTEzOi21tuA9OqEfNkHnwbsGnZ90=
+
+Name: plugins/libcaf_plugin.dylib
+SHA-256-Digest: Vf9OOJDpzssLIRKu5hTVg5Mf6XRE/zKrL3zzTIIh9Cc=
+
+Name: plugins/libcache_block_plugin.dylib
+SHA-256-Digest: c/7BnBJvnJt3gl7GF43StzKleFDgx6FuFvhdDJT//j4=
+
+Name: plugins/libopus_plugin.dylib
+SHA-256-Digest: Q6omvHnvy0BvbgU/ZQgA7JGq91G86StHfLZ8eZeUnDA=
+
+Name: plugins/libvdr_plugin.dylib
+SHA-256-Digest: /zOJJ5xfh7O8/jYq5ndArqSsRcs4U/eE71AWLwOQlQs=
+
+Name: plugins/libi422_i420_plugin.dylib
+SHA-256-Digest: GLfv/Zu6iNL6hegBv7apQZlKj9OHbquR/tamGg4v5Y8=
+
+Name: plugins/libvisual_plugin.dylib
+SHA-256-Digest: iXxroo8LU8M4Kpun+LO4AuD78aN26xcDb32DBmQ6lDE=
+
+Name: plugins/libwav_plugin.dylib
+SHA-256-Digest: +++pVAAV2/MZFHiNi+J4AJXcHEC6kzz3bnET6msrc2c=
+
+Name: plugins/libstream_out_chromaprint_plugin.dylib
+SHA-256-Digest: 4rjPGbeIMC8hC5Oe0xohiVR43cG5Mi0mrrJZysDveMc=
+
+Name: plugins/libstream_out_delay_plugin.dylib
+SHA-256-Digest: sP4M3Q2sbGhOMIm6T2szGYFnSE0VLAmtDzWv3y4kfrE=
+
+Name: plugins/libgme_plugin.dylib
+SHA-256-Digest: iAlOg9VBcfZs8FQRMWNK/bcU/LzqqtihWCCAYAbOOWE=
+
+Name: plugins/libstream_out_rtp_plugin.dylib
+SHA-256-Digest: 08wkl3oQFVd4qkWaOnJ0ZIMr4pchieSMpweAN1W0XaI=
+
+Name: plugins/libmux_avi_plugin.dylib
+SHA-256-Digest: O2FTbS1xMajjN31nJmt6doBU/CXoRBsjSr303JDjy1w=
+
+Name: plugins/libcvdsub_plugin.dylib
+SHA-256-Digest: Kr9fphIFfAGju1dqWR0GB8/fwweYnRLyQl8RUwuGzW0=
+
+Name: plugins/libi422_yuy2_sse2_plugin.dylib
+SHA-256-Digest: MlsS1ZWNnl8U6xUdRhOGAx44hM/8Wkg0VVlx6VJpMOI=
+
+Name: plugins/libmediadirs_plugin.dylib
+SHA-256-Digest: ZqBICJjzOYv7tl95YmqdAf6fcduQK+CHqXswlo0iAd8=
+
+Name: plugins/libncurses_plugin.dylib
+SHA-256-Digest: +N83rnbuFkGzn6lo7wNtgibjAwmgqNSzuRncwY+dAbE=
+
+Name: plugins/libfile_logger_plugin.dylib
+SHA-256-Digest: 8JaHixCpA8UC3jjlOCIWS26FcHm37R+CCQKZuUna+BM=
+
+Name: plugins/librv32_plugin.dylib
+SHA-256-Digest: eE+RIOa4flFRKDkQqPo382jRyKUmN3YSJI+rgp/D4Rw=
+
+Name: plugins/libcolorthres_plugin.dylib
+SHA-256-Digest: PjF611I2CgoOakzugs8Ctp+9NHzb2aGqKq2BBezbCcc=
+
+Name: plugins/librawdv_plugin.dylib
+SHA-256-Digest: /TkMPCqyZ6txd3Zth1pNPHcWWSfq9r5yflPPQDeJjaQ=
+
+Name: plugins/libdvdread_plugin.dylib
+SHA-256-Digest: l0G52vmUBO32sSHhjPIj7HwxpyGclVSoIJE6XBz97UQ=
+
+Name: plugins/libgoom_plugin.dylib
+SHA-256-Digest: 4kyZZYtqdSx1E9h9LOze/cd3qBlMB52+FlVslcjogT8=
+
+Name: plugins/libvmem_plugin.dylib
+SHA-256-Digest: Ik2y9RNmcSSoCzd9U+Gn8n3p9df6ePxzCqxlZVPogAQ=
+
+Name: plugins/libx265_plugin.dylib
+SHA-256-Digest: YZWpfdVAh5MbNwfhp1al5sG0Z03r18z0k62p/Vtm8l0=
+
+Name: plugins/libtta_plugin.dylib
+SHA-256-Digest: +AuYB8Jo71q/H1K+Djc+/k7AKauiWPoF5A1ERfEaO/w=
+
+Name: lib/libvlccore.9.dylib
+SHA-256-Digest: U3q5TefyFUte5yCcagEtzFPE5N2J2QQgE/t26sfHstU=
+
+Name: plugins/libshm_plugin.dylib
+SHA-256-Digest: UFhhcBx0ILT3Rmnsoe6pry9f6de0ySDE73gJs1KsBlE=
+
+Name: plugins/libcanvas_plugin.dylib
+SHA-256-Digest: SUJCQfqQ3oewb7csjbR7CwFLoXtfhE3uWauZlJrZmDY=
+
+Name: plugins/libmarq_plugin.dylib
+SHA-256-Digest: nwAuigJv3D0XPz8ngmqcpLfp7zvdS+lOUQYFZVfc+7w=
+
+Name: plugins/libvobsub_plugin.dylib
+SHA-256-Digest: lL0/snEXSezu9Dq6oDPX/SwLo235FsvFKsWDDtiWFas=
+
+Name: plugins/libmosaic_plugin.dylib
+SHA-256-Digest: EPM1RdD1VJac3KPBwUIboGZJmUacwkiatrIW6YIjVcM=
+
+Name: plugins/libcaopengllayer_plugin.dylib
+SHA-256-Digest: DiZMkBPb5q0wIQbrGFDzHcunrEGo4FnFG1sCIhFaRqM=
+
+Name: plugins/libchain_plugin.dylib
+SHA-256-Digest: rf95oRCxa2Ru42dZMYexFuidXKSJAXTVfljIcLuXujg=
+
+Name: plugins/libosx_notifications_plugin.dylib
+SHA-256-Digest: leMG7WbzSLnSv+exKtvbZf+uFBOUD3BomvtTJZMu3Ic=
+
+Name: plugins/liblibass_plugin.dylib
+SHA-256-Digest: H61U1ZE9P9bfDZmtLlmTQB9JR0hdBBFUFDZ7hOH6eYE=
+
+Name: plugins/libscaletempo_pitch_plugin.dylib
+SHA-256-Digest: dwsGkv43T6+BsRvK1jJqbEW8divkJcKRh70tRQAwDwQ=
+
+Name: plugins/libafile_plugin.dylib
+SHA-256-Digest: R9dno8gHlTJ0u2W7dLQsfaOVJwmGARv/6+6f+13p7Pw=
+
+Name: plugins/libdca_plugin.dylib
+SHA-256-Digest: dvp7B/fGGyxABDo2iPJdVs1g1fvLWwu5qjK+sPAID4E=
+
+Name: plugins/libhttp_plugin.dylib
+SHA-256-Digest: lLlPaH/Pm1uUUVmymLFQHwuYlBNGhJzGXK4GMniFL6Y=
+
+Name: plugins/libupnp_plugin.dylib
+SHA-256-Digest: mOsn7iGekUJLwpDYpn0owAQ8XhyCWQQjaBBS20qbwwc=
+
+Name: plugins/libsatip_plugin.dylib
+SHA-256-Digest: 4wDF13GTLGB6e8pZWhSM46/sqo1UZArsEG6kUI0qQ0s=
+
+Name: plugins/libyuvp_plugin.dylib
+SHA-256-Digest: H75dGGfMq27PbVtlfkxzmp3ArWBme6ZbHsTISLD6e1s=
+
+Name: plugins/libflacsys_plugin.dylib
+SHA-256-Digest: gD4kzX3pwPTp3JPj5h5x7anl6k7EWX6Hmm92V3r4qyo=
+
+Name: plugins/libspeex_resampler_plugin.dylib
+SHA-256-Digest: gnncSDspSru8gnuVZokjG3jmsLIFCOSOoltgwMDcHUo=
+
+Name: plugins/libstats_plugin.dylib
+SHA-256-Digest: N928P3YVxIrhr2HFWUGl1jJP7w2BcmtjHFIJJd/TT0Q=
+
+Name: plugins/libamem_plugin.dylib
+SHA-256-Digest: Ql7LLfZAMx0axIYbdeotjw7Aq3O8etolrzliWifKUZQ=
+
+Name: plugins/libpacketizer_dirac_plugin.dylib
+SHA-256-Digest: HzRhBoMG20+Mu28ts1W/dCxxuQE4cDTHJvG/zSNvdnk=
+
+Name: plugins/libbluescreen_plugin.dylib
+SHA-256-Digest: z9HgXkqdE9e11g6mt6qGVgKQlhYQdg3GVavbqdMZAyo=
+
+Name: plugins/libcompressor_plugin.dylib
+SHA-256-Digest: LOvgpvzGQpaVXt56nBhFCGHAdR+M4W8ijCcHFxQuDWo=
+
+Name: plugins/liberase_plugin.dylib
+SHA-256-Digest: k5vdRH9tiME7jdWpkWsPDQJPfJkZMNMfICqXxSuRv+Y=
+
+Name: plugins/libaudiobargraph_a_plugin.dylib
+SHA-256-Digest: PJSPvZKNTF9dFW5fp/3K1/CcJpK6OAzOLRnVQ1F44Kc=
+
+Name: plugins/liblogger_plugin.dylib
+SHA-256-Digest: BSWKYmL9P5UEoVCtnN1xVnp8y2MIJYIZ42VBfXjBshs=
+
+Name: plugins/libfingerprinter_plugin.dylib
+SHA-256-Digest: 21h9coDWKLDH81c4vdkhIb4JeuJXWMFm7NEimSUC9IA=
+
+Name: plugins/libmacosx_plugin.dylib
+SHA-256-Digest: 6CkBWnAbt1EHK6mmtaUdlRBn58rotM5eiV35MM/W7jQ=
+
+Name: plugins/libpacketizer_mpeg4audio_plugin.dylib
+SHA-256-Digest: GHYkgjFhTynY8MGZKfHJ1TkaAJq+/f/PIYF71QicnMc=
+
+Name: plugins/libequalizer_plugin.dylib
+SHA-256-Digest: X1IVnBdNcmETnKbPyucEaCiq/eciLzrYqJsKTLPUIdo=
+
+Name: plugins/libpacketizer_flac_plugin.dylib
+SHA-256-Digest: mN1sz3J6au6a7N5v338PHsIkp8tP3vWKs4IonWBMJE4=
+
+Name: plugins/libmux_ps_plugin.dylib
+SHA-256-Digest: LYbN4MRGAYPPG+bNjvUb8ab2vIT4Md7yFHjwkkFJxgE=
+
+Name: plugins/libspdif_plugin.dylib
+SHA-256-Digest: Bjm8d10JURr6yuvXT15/QGRYipaEX8Jrn+VcyxXjXhI=
+
+Name: plugins/liblibbluray_plugin.dylib
+SHA-256-Digest: gs+OyS0x9Qtv5LeUPbEEeDdMoACKoWGkfl0W+Jdn79U=
+
+Name: plugins/libdvdnav_plugin.dylib
+SHA-256-Digest: x2GjqgcyWD1ArXuYf6Xg9imIAv1J9in0+djrRjHBA6E=
+
+Name: plugins/libtdummy_plugin.dylib
+SHA-256-Digest: equzdGgJkx3rMJMKeeI9I2z/SvOEej5dxXIxYQugiDA=
+
+Name: plugins/libftp_plugin.dylib
+SHA-256-Digest: dU4RbaWuNt2qhFo9aQFg4TOwPVz9t3Ztzr21+PZNl8E=
+
+Name: plugins/libadummy_plugin.dylib
+SHA-256-Digest: m52q+QSNZ84j36gdYVEKr0+lq/wx0j8Y91ctC0S5pPE=
+
+Name: plugins/libattachment_plugin.dylib
+SHA-256-Digest: OA6mwSQDSblm7TlUetlSx4N5pWFxHC4FxTxZkswrkcU=
+
+Name: plugins/libconsole_logger_plugin.dylib
+SHA-256-Digest: mZyLRqEayNi+cL89C8dDK5cIIUe0oNY5b6lsOCSPVnc=
+
+Name: plugins/libaudioscrobbler_plugin.dylib
+SHA-256-Digest: 4J/eE8KqEOHqgab/6uk9JLRJ82w5ICPwccS+ALNwG+8=
+
+Name: plugins/libfps_plugin.dylib
+SHA-256-Digest: MTY4PDmp7Uj4nDKA23EIKD3K4dU6nY/2/r6TEIaNhTo=
+
+Name: plugins/libi420_yuy2_sse2_plugin.dylib
+SHA-256-Digest: t2fCJUIV78ehnTCtRSQiSK0tvVLhkxShMXPeMesEDOM=
+
+Name: plugins/libkeychain_plugin.dylib
+SHA-256-Digest: zRIf3833y5ouCV58VLnwAhI/AC1lQ2JecqKll13z2D8=
+
+Name: plugins/libavcodec_plugin.dylib
+SHA-256-Digest: SR6jEnfu3EpWKJBXbXrepNKOOTE1iV/CeH6Mwdqga+k=
+
+Name: plugins/libdcp_plugin.dylib
+SHA-256-Digest: okglBpF91zkDgymw+mVgm0WGD+v7H9W9T173IpILIR0=
+
+Name: plugins/libwall_plugin.dylib
+SHA-256-Digest: 4aitkBEaQfbQp0Yyf5jnljAM1hYLJx/iBFyRp2VIyeQ=
+
+Name: plugins/libts_plugin.dylib
+SHA-256-Digest: rUvLVszei+mgTUlTMgT6mOhsDsFXMPIIXJ8ByK/w+iQ=
+
+Name: plugins/liba52_plugin.dylib
+SHA-256-Digest: YQtYz77K/jyGElwB6HOd0Gy1PzgOKjiCyCFq+Ph6DOM=
+
+Name: plugins/libinvert_plugin.dylib
+SHA-256-Digest: vHi2ryuGkZSV4GIuJzuW3yh1hkiBKm0QZxyO9T+f5Os=
+
+Name: plugins/libaudiotoolboxmidi_plugin.dylib
+SHA-256-Digest: aV7/dlK7RmYHHiT5paCiW9PFDKNdfru3t9aCqse1Px0=
+
+Name: plugins/libarchive_plugin.dylib
+SHA-256-Digest: TgneHjsfb9fwH+wRhozg3u2vwZeZwbcZ17Fd3BNfmOw=
+
+Name: plugins/libxml_plugin.dylib
+SHA-256-Digest: zZQDzhSoDWBtzX1q+Y4NEl5Aq1+K2ObHLqItc/VCHRc=
+
+Name: plugins/libfolder_plugin.dylib
+SHA-256-Digest: 4bnbClZSCiJDxT4Wf7OVNQP3yGzNMIA0POEJYKXwIRQ=
+
+Name: plugins/librotate_plugin.dylib
+SHA-256-Digest: 8BoXZyVJucBS5zYxzc2kLCzBD/ZC1yJ95DzNXRD9t0E=
+
+Name: plugins/libpacketizer_hevc_plugin.dylib
+SHA-256-Digest: yruF3xjVEkL7Ervru11c6LkvRBcWj6BJz9AOKmQ5ofI=
+
+Name: plugins/libclone_plugin.dylib
+SHA-256-Digest: 8NU7cjgSczS9/aYDwVvf05azzGXhi+aCJLYCk/w+CE0=
+
+Name: plugins/libxa_plugin.dylib
+SHA-256-Digest: TNrJhm0m54+lEhTONNYbuI5GBys+fwSBM142cG7kKLE=
+
+Name: plugins/libstream_out_display_plugin.dylib
+SHA-256-Digest: T2bv9fnfSJShoaWSUhWGZosrCMeelHYPIFRclzAQdQU=
+
+Name: plugins/libtimecode_plugin.dylib
+SHA-256-Digest: H/Kcb0wWgo8/kWKk6Lb+ABTW/NOCoetUr49jTs5p1mQ=
+
+Name: plugins/libyuy2_i422_plugin.dylib
+SHA-256-Digest: 4urvMkmx8SUyz5XMxnda4EEVjB3FX4GpUxzGIypPi5g=
+
+Name: plugins/libplaylist_plugin.dylib
+SHA-256-Digest: JsBvFcC93OOU8zVdw04j/Qh/D9Hw8fwRf0UdCcvompU=
+
+Name: plugins/libttml_plugin.dylib
+SHA-256-Digest: cxrnk2asuDmUzbBOKKfvSDyhjaFcAMmJVgI5Dr0P4aw=
+
+Name: plugins/libugly_resampler_plugin.dylib
+SHA-256-Digest: rG+AVaQMW9/XnuYX4ljMjQBjcaNuYf66tSdEsFj1/ug=
+
+Name: plugins/libspeex_plugin.dylib
+SHA-256-Digest: KSA7jP/ekGNwD5hbpUT49fLmWYlS55r5b1tR8tdbbr4=
+
+Name: plugins/libasf_plugin.dylib
+SHA-256-Digest: qvrrsjn/MGvroI40hu2jdhyytSviY62fXJMREhf7N50=
+
+Name: plugins/libadaptive_plugin.dylib
+SHA-256-Digest: XiENNMGbm2rkCggyxwPEcWoiwJygXP/5Hs4ZEk72PD4=
+
+Name: plugins/libspatializer_plugin.dylib
+SHA-256-Digest: qagp6nd5JFPa3m2AGrGpfrO+FHDam5VSMuphiUshZLQ=
+
+Name: plugins/libmux_dummy_plugin.dylib
+SHA-256-Digest: eOejOKWzFzekZH2NiKP4uoBLeKIpBJB/1ibetNzKouc=
+
+Name: plugins/libexport_plugin.dylib
+SHA-256-Digest: ZftXzHBpqRKsFYKy0A9RlHhIvKXBY3HBZ0WTk49E9R4=
+
+Name: plugins/libfaad_plugin.dylib
+SHA-256-Digest: TbEdRTNYuoCdYz2Hcsm2wuoup3XqK+CCVv1LMT2RwRo=
+
+Name: plugins/libmono_plugin.dylib
+SHA-256-Digest: +Dgj9aSKyH6FiwpLIEe7uCB4m3m+AXuqb/N9k/y+piE=
+
+Name: plugins/libvorbis_plugin.dylib
+SHA-256-Digest: uUL7UbAwoey5r3K2WvTY8Eya9RILF5QZppCt9kYQSuc=
+
+Name: plugins/libes_plugin.dylib
+SHA-256-Digest: nQysxXS3D1F7wawfxsZfbFM0oCR2/p76iVW2xRId5vE=
+
+Name: plugins/libddummy_plugin.dylib
+SHA-256-Digest: JnDfKOsO3bTl+j60PqtouaYeKC8wfGh0zquOTpI+pdw=
+
+Name: plugins/libstream_out_dummy_plugin.dylib
+SHA-256-Digest: 3FXW4Xq5hlM6xP/W46kEtQ3dyhBI/tEgL2TEEQNwNAA=
+
+Name: plugins/libsyslog_plugin.dylib
+SHA-256-Digest: baYKVRyYNCm+DtcbTFFPxHuPKawExGJOOUnCrqD4FPg=
+
+Name: plugins/libprefetch_plugin.dylib
+SHA-256-Digest: wdrzklZBNUxZD8HEdPzUUSOnjWZ03mSy2aBUw/DZBME=
+
+Name: plugins/liblibmpeg2_plugin.dylib
+SHA-256-Digest: zC7jN0qZ/vA2TnIcq3xrKJlDmC6O4aNWY1COSjvJwyA=
+
+Name: plugins/libvout_macosx_plugin.dylib
+SHA-256-Digest: GMhoSAJhED4xA5i9JeShHa+tqx5G4OjLuWSI0E4ZsoM=
+
+Name: plugins/librtp_plugin.dylib
+SHA-256-Digest: 2i0xI3hk0j49TYnjzySIRmG6MoKwib+yG5cZaN10ab8=
+
+Name: plugins/libcc_plugin.dylib
+SHA-256-Digest: hscMt8ct1prgAjYTPF69mSG8bQADOI3BgcmLvys98Dc=
+
+Name: plugins/libfreeze_plugin.dylib
+SHA-256-Digest: Hkx7Jh0aHpbTHO7NoCUCZND8NpZyAByJ1/g9wtkJ0jA=
+
+Name: plugins/libsubstx3g_plugin.dylib
+SHA-256-Digest: BS29lmncx7eZp5gsYJIWfQSauoxanXIGmzNjFtU/OrU=
+
+Name: plugins/libaccess_mms_plugin.dylib
+SHA-256-Digest: PcuFPEpSTmj9mQ0gJFDCCA0WdRHdk71qIiwKzFz9avw=
+
+Name: plugins/libi420_rgb_plugin.dylib
+SHA-256-Digest: 3kJ331G2dxYGSHDXW75FUjxTUeMBxvIoq6RXakXyC+c=
+
+Name: plugins/libremoteosd_plugin.dylib
+SHA-256-Digest: Nqg7/lMbb7wihScPhbqqSTY6q/Tg3weQkeSEfY602rw=
+
+Name: plugins/libnormvol_plugin.dylib
+SHA-256-Digest: j48Oc2in63YVqcd8Y/Sy+YsTyrEFKQizYTRCKxcmxXg=
+
+Name: plugins/libdiracsys_plugin.dylib
+SHA-256-Digest: tIFb1XoQJJfwK9gfP5CfKfLNVh3QxGWMkellE/YxInA=
+
+Name: plugins/libnetsync_plugin.dylib
+SHA-256-Digest: oBHxKGcQ45CfzKfd/unxXPPgiH945pTsR+C6uyP8JS8=
+
+Name: plugins/libstream_out_smem_plugin.dylib
+SHA-256-Digest: kD6zaXTK2oqonWIQSVFufRSnmYjZKDAAhUuR9ZASDxg=
+
+Name: plugins/libmotiondetect_plugin.dylib
+SHA-256-Digest: n/ehe9xYNju2+Dwlki+/Fq7bYRZRhNNEnA5VNWcNZk8=
+
+Name: plugins/libaccess_concat_plugin.dylib
+SHA-256-Digest: EoTxnnTltyfcVmMEBCKt10VGiPvMP7+cptTox9T2bA8=
+
+Name: plugins/libpostproc_plugin.dylib
+SHA-256-Digest: jJQQrCCVsHOgyKq4T2oodJd3dp2yB4B3F7rZO96e5Mw=
+
+Name: plugins/libcroppadd_plugin.dylib
+SHA-256-Digest: BhJs3NOj+xZSxWwqD1jkV3AorlntFVlVLu28VtrkciI=
+
+Name: plugins/libsid_plugin.dylib
+SHA-256-Digest: Lj2GgTv9D9SNIpC6/YXxtN51TYCQ8tbv6OLIC6kIUeg=
+
+Name: plugins/libchorus_flanger_plugin.dylib
+SHA-256-Digest: 0FoVGdjM3hABSNcJIvr9Eryhq1GYqGC4Sgo3cKySkss=
+
+Name: plugins/libfloat_mixer_plugin.dylib
+SHA-256-Digest: TDBqWZNP7e01+CY9RDBrj4V3wGvGOQaCoiTlbL4yvcY=
+
+Name: plugins/libcdda_plugin.dylib
+SHA-256-Digest: gcKQAJRaT6h7V5kALvhMa9WsN18wXRIoBI29bJB75wA=
+
+Name: plugins/libparam_eq_plugin.dylib
+SHA-256-Digest: KrsHkTGdHo3C+DRE/pmWycfl4Ux0YkqNIBCjqtnPKoc=
+
+Name: plugins/libball_plugin.dylib
+SHA-256-Digest: 3xjMjBmRx+g3Ks1uYEtx5PLyGe7Qka6Ehv1sYVRJRrc=
+
+Name: plugins/librss_plugin.dylib
+SHA-256-Digest: 5sYLrlC3Z5INpS5UbXmIlfQ3LKDHQBF6OqTdxLqZZDA=
+
+Name: plugins/libstream_out_cycle_plugin.dylib
+SHA-256-Digest: K5Pgm8VmZfbmSJzwM3vE7+31SYjXFjJ2dTmibnCnfRc=
+
+Name: plugins/libstream_out_es_plugin.dylib
+SHA-256-Digest: R5coXtY8X3CeoOQpPDNclUbXqgs7XwrvFpXHofwG9iI=
+
+Name: plugins/libgain_plugin.dylib
+SHA-256-Digest: jpTMd5urrsayAV/SuAcWQFfqhlE7Ft/4SgJifVsiCvk=
+
+Name: plugins/libaribsub_plugin.dylib
+SHA-256-Digest: GMTF+cW94O14aCMrg8HzfiiyB92vQRlSZinI4aGy2Ro=
+
+Name: plugins/libflac_plugin.dylib
+SHA-256-Digest: Lrm+epCEaQeZkQIGL4nArr0QOaV1FvMlJTPrK4M1Fls=
+
+Name: plugins/libi420_rgb_mmx_plugin.dylib
+SHA-256-Digest: 4Z6pmVFrXqMOR6jXm1RtxJAICWBihLoguRSkqJndGng=
+
+Name: plugins/libmux_wav_plugin.dylib
+SHA-256-Digest: TAxm1lwGxfc7L1Tr+nO5mBhMP+y7a4TZfgCDSWUX0+M=
+
+Name: plugins/libmotionblur_plugin.dylib
+SHA-256-Digest: THxvOEHvsFpDF07nZIZaWIc4iLgQ3QjIZW/uVVLK/D0=
+
+Name: plugins/libhds_plugin.dylib
+SHA-256-Digest: TXBKp6phBW0p7Pz2rlyoBCCPdofNPeBs+T5u7BFF+i0=
+
+Name: plugins/libaccess_output_udp_plugin.dylib
+SHA-256-Digest: /xzX8Mbk9R5PZGC1Mq5Qyrg/D3czyHSZVHiQMnzvwkk=
+
+Name: plugins/libdecomp_plugin.dylib
+SHA-256-Digest: MYr9CwXsnW3ZlcAucXdGn3MzHp6vyS4th21mfYMYDIo=
+
+Name: plugins/libheadphone_channel_mixer_plugin.dylib
+SHA-256-Digest: CV0jzkYj70K35KNajwWUBj+si0fH3PYHECxIc8tylYA=
+
+Name: plugins/libinteger_mixer_plugin.dylib
+SHA-256-Digest: I0TphtVI2EUGCeT8SCrx/iKsCh10eoaoSK2n1Q0uJT4=
+
+Name: plugins/libstream_out_bridge_plugin.dylib
+SHA-256-Digest: LjtgDgD+1DnLuWVfU2c6kHQMKFu5Wc9IbXPrBfsl5MA=
+
+Name: plugins/libvc1_plugin.dylib
+SHA-256-Digest: zRioASru3Uka5ztXvS/xSIbNybkzAHqiDw9+Ytmo798=
+
+Name: plugins/libantiflicker_plugin.dylib
+SHA-256-Digest: boqXGc/GzkvvkEwZp1+3gSCKCNei4BT8HlawnytOFvo=
+
+Name: plugins/libsubsdelay_plugin.dylib
+SHA-256-Digest: hFlZ1Xmm+rdCIDZ5ljviARqNMe7PP62aXBEPpjf/0DQ=
+
+Name: plugins/libmux_ts_plugin.dylib
+SHA-256-Digest: vdxnYzzb4T3jHPsjgxVtsyGNW5ONEpOwEmxFdNDCkXw=
+
+Name: plugins/libgnutls_plugin.dylib
+SHA-256-Digest: qu+2mKhe++hE1RYl2uTU3KMv0LPPP5tyeSJ8V6iwIME=
+
+Name: plugins/libnsspeechsynthesizer_plugin.dylib
+SHA-256-Digest: e9LYVLG4Mv96SBc/iS137Zflo8cqEbOnhKijFXzSx4c=
+
+Name: plugins/libaccess_output_http_plugin.dylib
+SHA-256-Digest: pycBYQfzl4soZdZmvux16p1M3cIjQqwtG+vW40fAFe8=
+
+Name: plugins/plugins.dat
+SHA-256-Digest: jo0+PRseHLQ1Mc+3ZD9s82UZ+izBSAmum2Sf2PAdDRA=
+
+Name: plugins/libposterize_plugin.dylib
+SHA-256-Digest: aMRkYHCTc9Os2aGvDRE+VJdoc6QHSHUyOlEgrQFnR44=
+
+Name: plugins/libskiptags_plugin.dylib
+SHA-256-Digest: F+i8OByKI8AOWYsGUx9hgzlIoo/vIx6GnAIHVDV2aXU=
+
+Name: plugins/libpuzzle_plugin.dylib
+SHA-256-Digest: tStNTE2QdpfX+20nSTuO9mQO5p0S7+WuTqnd2FIGDr8=
+
+Name: plugins/libdeinterlace_plugin.dylib
+SHA-256-Digest: zZlP4IPvkfKq9UG4JGY5MAYfG2FHykM5f4Hou9CpBiU=
+
+Name: plugins/libanaglyph_plugin.dylib
+SHA-256-Digest: oe76RFunonTpBlyUY21FVKenyp4PrdoRYVl7/R+x4BA=
+
+Name: plugins/libyuy2_i420_plugin.dylib
+SHA-256-Digest: CpiC9+84bzz7roxwMO+u1P2Uh8RNhF1Rq6cIF56QuUA=
+
+Name: plugins/libaes3_plugin.dylib
+SHA-256-Digest: h48BtShWjwKD6R25yF1OXT5W5WSxXGF+sJCDZK1OT8Q=
+
+Name: plugins/libstream_out_duplicate_plugin.dylib
+SHA-256-Digest: AQI41c4t9c0D5JhhqT56J3YTlXBg9wB1yxanf9HlDMc=
+
+Name: plugins/libswscale_plugin.dylib
+SHA-256-Digest: 86m0SGtThGDN1Guggihrmirbmf+Fxx1bRkGtyXKHd3o=
+
+Name: plugins/libaccess_imem_plugin.dylib
+SHA-256-Digest: 09RaNnqSo92rmTbaXueu0tRzrcF90ebvRBmxOvBX8Kk=
+
+Name: plugins/libedgedetection_plugin.dylib
+SHA-256-Digest: ZKQJ1vuY6sCkYCCEWgAGSH4qO1CNB9h7CexCwjnr1R4=
+
+Name: plugins/libnsc_plugin.dylib
+SHA-256-Digest: Jc87Nn6UwfWqvca60msAey0/azYPwwRm2YBvQj51nFo=
+
+Name: plugins/libbluray-j2se-1.0.2.jar
+SHA-256-Digest: sivSmfI7bVmG0pEIamJSqo4htRvBAcvVf3qpZKvzoDg=
+
+Name: plugins/libty_plugin.dylib
+SHA-256-Digest: TyCo8a737xwNYCW30FDOL0G74fqpjYVp1Np4FRoYAPY=
+
+Name: plugins/libtrivial_channel_mixer_plugin.dylib
+SHA-256-Digest: 9LUCiTLLKfdyYW7EBGwz7opxsSEu34DCSV2FNp0xpmQ=
+
+Name: plugins/libaraw_plugin.dylib
+SHA-256-Digest: ZZa7xlH36df4YcmuHiAHm4Yxou5l9HGAQeWj12q4gVw=
+
+Name: plugins/libgradient_plugin.dylib
+SHA-256-Digest: 4I9rvArKjaiUyGuQtQpffVnwbZbOAJmV5sjJzqN8chk=
+
+Name: plugins/libi422_yuy2_mmx_plugin.dylib
+SHA-256-Digest: P3FRqNeaXIKEOBRyIt8hNabr6lXehJwTkJyhVja/X0g=
+
+Name: plugins/librtpvideo_plugin.dylib
+SHA-256-Digest: DkQIIUUs6ZCeu57lEz3BJ5i/5M2bey6DpPDBgT88m+A=
+
+Name: plugins/libmp4_plugin.dylib
+SHA-256-Digest: 1SYewrAaCIE6qZKYVKrUdQJZ2jEiawDSVQuRW2NW3Tg=
+
+Name: plugins/libdemuxdump_plugin.dylib
+SHA-256-Digest: g1jNW3CxJVrVuJOt7/qab0vTsHNeI41Z8ykUZrmP65g=
+
+Name: plugins/libmux_mpjpeg_plugin.dylib
+SHA-256-Digest: BCRlMwpArUvztGQDwQydO4yVmNsZ5JfU0om4SBeX9Ok=
+
+Name: plugins/libidummy_plugin.dylib
+SHA-256-Digest: y0yJvj0i5Jv3b1KCq0dQ/pZ9EqVbz77Od4M6zjDtilw=
+
+Name: plugins/liboldmovie_plugin.dylib
+SHA-256-Digest: 43/+t2Zl29EVeNGSG9Kps+MoA9FJjcxJSQ10Y6bIXXw=
+
+Name: plugins/libuleaddvaudio_plugin.dylib
+SHA-256-Digest: Gqf8KsT2ZSjjB0AQAFHtJ7puoifB9fk7GLv/nngiIAM=
+
+Name: plugins/libvhs_plugin.dylib
+SHA-256-Digest: wAJ/RZMUBtR64s9V0r+gVBotWpz9Dz/+4rUEz52Aymo=
+
+Name: plugins/libmod_plugin.dylib
+SHA-256-Digest: o8VoOCYIuVWkgc065Y00R+ZH92CGwGRfIPT/+KO0+KM=
+
+Name: plugins/libvcd_plugin.dylib
+SHA-256-Digest: bvrNxZvU7Ot5eSAuhH6pbWoChbZzbyIhr8Y2DUGVv7A=
+
+Name: plugins/libextract_plugin.dylib
+SHA-256-Digest: /i2lYnzExLOqw3ecEtdcWA6i4sErT3z+mrUcFGWr1Uw=
+
+Name: plugins/libtheora_plugin.dylib
+SHA-256-Digest: wZAfyQAZkoNuqE/qw6Y2PNzmclSFzo886odczMcrGS8=
+
+Name: plugins/liboggspots_plugin.dylib
+SHA-256-Digest: xE5goWabwbhI4Si545JgxlyI2CVMGXg6ylEjFbIoJDI=
+
+Name: plugins/libmemory_keystore_plugin.dylib
+SHA-256-Digest: PsoMNQdLThEms0sfYZmWxzPBCyLk1oUNOTFEyjSGrA8=
+
+Name: plugins/libscene_plugin.dylib
+SHA-256-Digest: knyPW48YjwEdP/877HmS6w2OepgQwjG4pAyywp63a88=
+
+Name: plugins/libstream_out_chromecast_plugin.dylib
+SHA-256-Digest: Df1zpYWKwevG20/Q4X6hjzeRZIkbf17j9H3MWao/zxg=
+
+Name: plugins/libpacketizer_mpegvideo_plugin.dylib
+SHA-256-Digest: C7fvrVj6/j407Kw7fibILtXZvFXH2vB4w+MW65PKkes=
+
+Name: plugins/libdolby_surround_decoder_plugin.dylib
+SHA-256-Digest: UdPfl/6cnGB0eUrORyhkRp/MLTJYoSQb4CKkeaEBshE=
+
+Name: plugins/libfreetype_plugin.dylib
+SHA-256-Digest: JZRAy63XHBbrh3PdEOmfHQ27aOPdGtqyJ7nD5bnIxzY=
+
+Name: plugins/libpacketizer_copy_plugin.dylib
+SHA-256-Digest: WXo6rsMr/7r7fjVnU+qXnWvQuBNCFNqi5Jc1F0t20/0=
+
+Name: plugins/libaccess_output_livehttp_plugin.dylib
+SHA-256-Digest: cRXkGfMVIusW6TFr54x3E/L/K9QUQshTy9+jQtnGd50=
+
+Name: plugins/libtelx_plugin.dylib
+SHA-256-Digest: Xg9npks1rKb2W/bXgDmBEupMQHkt9j2qM8SEllWic/g=
+
+Name: plugins/libmotion_plugin.dylib
+SHA-256-Digest: rVBrbPImERbutKAka5547jOMcKet4np9qFvRkv7VkVc=
+
+Name: plugins/libscte27_plugin.dylib
+SHA-256-Digest: YNE16sm1aQR6gKOahltiLphwu4CFsvUd13pak6GsPok=
+
+Name: plugins/libpacketizer_mpeg4video_plugin.dylib
+SHA-256-Digest: GEsATnbsct63wD0XhupDyJ3vXqxkCxV9trjQzzlBpSk=
+
+Name: plugins/libhttps_plugin.dylib
+SHA-256-Digest: Nsn/3ScQRruujz1EHc+ZcLXkn16y3GWY/5gKSA9FHjE=
+
+Name: plugins/libdirectory_demux_plugin.dylib
+SHA-256-Digest: 7DFAuSijkM4NMM4osLVhs99ES7ecWMzWbmA9x5mJ/i4=
+
+Name: plugins/libscale_plugin.dylib
+SHA-256-Digest: UAA2JeMqkko5B70I4ffgEVDQiQL4oHLcq6p4Vfemr5Y=
+
+Name: lib/libvlc.dylib
+SHA-256-Digest: z+nLctwvMl++2HZ3RNXgAcMe6ETCpKlOxmgobIbbo7U=
+
+Name: plugins/libstream_out_mosaic_bridge_plugin.dylib
+SHA-256-Digest: 01R64hnaRNzk+00N9fH/S57Oaehin4Q+mN1zs279WDc=
+
+Name: plugins/libkate_plugin.dylib
+SHA-256-Digest: 9ZvJN+H/TeYpTvf9QkTFLQEA4EmUDBM6qvUpYB/CobY=
+
+Name: plugins/libmpgv_plugin.dylib
+SHA-256-Digest: fNnvZ5I9R2kwVticZY3z5ltjQroyfdewuDaybc5bTiQ=
+
+Name: plugins/libcvpx_plugin.dylib
+SHA-256-Digest: tXoyMdWZSlhBK7vGAgJXeL9IN+vx6qtmg8IcoUHuGDA=
+
+Name: plugins/libscreen_plugin.dylib
+SHA-256-Digest: CIrn3lX0BWt0TJlTCXuYq5xIRo5AylvNprmahh12AIg=
+
+Name: plugins/libmad_plugin.dylib
+SHA-256-Digest: +UNGA9CPdnhsLUFIcgoAA+qgIWb4fBe9Hxz86GsAZQ4=
+
+Name: plugins/libreal_plugin.dylib
+SHA-256-Digest: 2V4wZqXAXI7M61KbUy83zOA84O3oVShYFtEPobzk4mY=
+
+Name: plugins/libaccess_output_shout_plugin.dylib
+SHA-256-Digest: WB73I7sRfK3uHPkL7OBFmTICoC/vimJGeu3dFnvUNl0=
+
+Name: plugins/libpacketizer_h264_plugin.dylib
+SHA-256-Digest: +4myQHVNiQixlqoBiI0g3NzWVuo1zkvuiY5xhfybj7o=
+
+Name: plugins/libmpg123_plugin.dylib
+SHA-256-Digest: lcIGBSo2CqKdPERaAMZa7YYQIQEPhTktnZg2PD5zqgk=
+
+Name: plugins/libstream_out_gather_plugin.dylib
+SHA-256-Digest: SebvB1yEahno/Cr2Kip8MuS7PLDTa5f+8t+cB/7Laig=
+
+Name: plugins/libci_filters_plugin.dylib
+SHA-256-Digest: uip3Q3a0/iOXUzY33vpi3bvtMHN4mId8flU0iaE9pxc=
+
+Name: plugins/libremap_plugin.dylib
+SHA-256-Digest: 4GRaPLFQWnX973HvdVvLmEepnWyK9xmo8syRD4DOgGM=
+
+Name: plugins/libdemux_cdg_plugin.dylib
+SHA-256-Digest: xkV8ErXqaAv6h9S/4wrchjLDYaPP4UP4kwyu59IJBAk=
+
+Name: plugins/libaccess_output_srt_plugin.dylib
+SHA-256-Digest: gpyS9eBWydsnUfUTLPxYtIi6aXdNB27AANFPTySKni0=
+
+Name: plugins/libsmf_plugin.dylib
+SHA-256-Digest: BM0T5kQqnlYVCOqwN47s1iqnl5p9lqWLtkjXFqC1vAs=
+
+Name: plugins/libaccess_output_file_plugin.dylib
+SHA-256-Digest: 2nRuLwLqAqDbcvZx+7fPUuawBghn8Hd+GDbRBrlh1Bw=
+
+Name: plugins/liboldrc_plugin.dylib
+SHA-256-Digest: P1r4jv9yIatoUTdUtf1heEy6e2D6Tetaz0G3DUE+1UM=
+
+Name: plugins/libsdp_plugin.dylib
+SHA-256-Digest: F8knz5r+xUwAj1CsNqSt6EP9EGtZcz17R7haLvFmrbM=
+
+Name: plugins/libgrey_yuv_plugin.dylib
+SHA-256-Digest: SfV4wdBAK0aP3eEouUeMWzLaDHHgUhNS1s3Wy87nhyg=
+
+Name: plugins/libps_plugin.dylib
+SHA-256-Digest: 7XlONqTJDA6pi2N6Y+wSODG04/e3etlLLexyUED4doU=
+
+Name: plugins/libaudio_format_plugin.dylib
+SHA-256-Digest: 0aVckqqWT80et38YLs0zF+O/cm5EGnOqfF5L8XdLN3M=
+
+Name: plugins/libi420_yuy2_mmx_plugin.dylib
+SHA-256-Digest: j1c/IgS2FFM9zDNt7n3Wt2H8JyZCEUeIqL/lnj0Mp/U=
+
+Name: plugins/libmux_asf_plugin.dylib
+SHA-256-Digest: vOxzAa0TQuhOhOkS9+p/S7jek9FDqJ48Ti1XLVRWz10=
+
+Name: plugins/libimage_plugin.dylib
+SHA-256-Digest: nJaU98w3NtLYpTVvs1ALr1r3VfdfBNIK/yeXi22aI3A=
+
+Name: plugins/libi422_yuy2_plugin.dylib
+SHA-256-Digest: rSa9uWcfT5hyTCR7cXtg3UaHPGc4tkN1lUzifMr754o=
+
+Name: plugins/librecord_plugin.dylib
+SHA-256-Digest: GNOsAGdrkr56SewtnM+hPY2fzgjD4n/OD9qDFNltHqA=
+
+Name: plugins/libschroedinger_plugin.dylib
+SHA-256-Digest: DBtMKaMlardW9gzW3ATLqYwGJOeyOzOCW2BVAF2xfdE=
+
+Name: plugins/libsftp_plugin.dylib
+SHA-256-Digest: 2oh3pktefD2QitWL/hgJkVn8JMIbIPZdPF0R6O0LCl4=
+
+Name: plugins/libt140_plugin.dylib
+SHA-256-Digest: ALDIN4En0qfQ8YhAlxA36OlayxePqgnQMvOo7EYJ5qA=
+
+Name: plugins/libtextst_plugin.dylib
+SHA-256-Digest: UaFHi739lEbak0Bum1HVHsLzMzwDbQg232UXhj3TxhM=
+
+Name: plugins/libmkv_plugin.dylib
+SHA-256-Digest: ICKx4Xm3GUPj7JHzIzEbTGEDTJJTgjAh8ZACLIpl7ns=
+
+Name: plugins/libpacketizer_a52_plugin.dylib
+SHA-256-Digest: Ta8ijhsHtLig47Uwh5TDmxCGlrCtuI7UeXl1VIpKStw=
+
+Name: plugins/libpacketizer_dts_plugin.dylib
+SHA-256-Digest: JFwpZV8DFnxksSR9VTdZLcgAIYmAvTImJsbloEhdIMA=
+
+Name: plugins/libstream_out_stats_plugin.dylib
+SHA-256-Digest: h5IIeh+30SlWKJQlvT7b6s24dRvfhZmX0Sczjufk4Hk=
+
+Name: plugins/libau_plugin.dylib
+SHA-256-Digest: X5v8xSrwshDm1/nTNzH3j/uAcZX6P8htwLbLniOMdPA=
+
+Name: plugins/libdvbsub_plugin.dylib
+SHA-256-Digest: fdb88ecTjQxyfx+27pspHqAwvWPUOXyl2sm4T64WAvE=
+
+Name: plugins/libmjpeg_plugin.dylib
+SHA-256-Digest: AOgYHnzU3FL+sE2cHgU5HQLwco7nRIXhevTbMFaVPiE=
+
+Name: plugins/libscaletempo_plugin.dylib
+SHA-256-Digest: GkW15lRhEfJko3sRyMXfrnUcVuRxM/23KOs9aNaiBYU=
+
+Name: plugins/libi420_rgb_sse2_plugin.dylib
+SHA-256-Digest: KOaC17C7pf/jItxqyZzsFk9bCcUQzdym0Zk8mTSE8Fc=
+
+Name: plugins/libyuv_plugin.dylib
+SHA-256-Digest: GD9IKHxRmvjFw9g0ql9y26wRtNcCWVmlzDZJqMT0WpE=
+
+Name: plugins/liblpcm_plugin.dylib
+SHA-256-Digest: 60c/gy2tIJwicNySc62QDsZWGJpdVOrugipmrCNZWOA=
+
+Name: plugins/libgaussianblur_plugin.dylib
+SHA-256-Digest: 2h55QqhGpOY3HvSfIyUB9QXWSH6OEPwc9f8Zr2aO6eM=
+
+Name: plugins/libmux_ogg_plugin.dylib
+SHA-256-Digest: jdDMJRzLvrtw99WwCd7PXEVDP7o4CutH03oJTxnC1cM=
+
+Name: plugins/libaudiobargraph_v_plugin.dylib
+SHA-256-Digest: TuL69s48oeen6Edya1xfM/W4zQrmr3lRtQd3QQz43oE=
+
+Name: plugins/libsubsusf_plugin.dylib
+SHA-256-Digest: XhxBSvJH4WlI2Fg4OJBkH5E1fKYb2y+W+PhEIVTzEKA=
+
+Name: plugins/libsubsdec_plugin.dylib
+SHA-256-Digest: Ct3/M4Q41ufnpYg6i5wL7V8dhyHNvFln3iV7LXN4DP4=
+
+Name: plugins/libedummy_plugin.dylib
+SHA-256-Digest: qOL/FJ4+QeNNMMgywqNM0QGPRV2gLBVsVgqHkdEmRJQ=
+
+Name: plugins/libpacketizer_mlp_plugin.dylib
+SHA-256-Digest: UnyxnqFqvCqPZ93mlaI+uvZN3Z60dsQ4gob4Pysgcr4=
+
+Name: plugins/libaccess_output_dummy_plugin.dylib
+SHA-256-Digest: EvF0yGQ+5sCMCxDPtg2Di3DPgBRGKRSeBaYmBbpelaU=
+
+Name: plugins/libadjust_plugin.dylib
+SHA-256-Digest: Iao5e3GojBgT2PP5c+60VTIC1u+1MQy7nqgKqP+vMKA=
+
+Name: plugins/libauhal_plugin.dylib
+SHA-256-Digest: jrgyymh+iLHva8myrVCZMaCLRtSjI8Ze6EeK07sif6w=
+
+Name: plugins/libavcapture_plugin.dylib
+SHA-256-Digest: jfpxLaY/2RJ3I5PxD/hzqM6FrPdg2rf0BkC3pJkyks8=
+
+Name: plugins/libaiff_plugin.dylib
+SHA-256-Digest: I8mZNwecgemsH+FTpA2lXuLI+MY4dDRQB4euY4HiVU8=
+
+Name: plugins/libogg_plugin.dylib
+SHA-256-Digest: 90FlXQmqwC5uD6W7/UkjHOc+uMC9PbHgxeubyliGpu8=
+
+Name: plugins/libi420_yuy2_plugin.dylib
+SHA-256-Digest: qexoqyDcEbxGlAu0OHmNLiY0zL59hK5vXlJNSRhhlm8=
+
+Name: plugins/libtransform_plugin.dylib
+SHA-256-Digest: ezm9kabdjTHCHP//92h/fkWCZxLs4NfdROqdWFz8/uE=
+
+Name: plugins/libg711_plugin.dylib
+SHA-256-Digest: +gzjZrX0a27lFN76FQLrvNEVdFyEvRJY5PUN9h3WnW0=
+
+Name: plugins/libstream_out_record_plugin.dylib
+SHA-256-Digest: cETp9qboaiY224YbISOpSCjcdp6exGrQCudvO6PJJdA=
+
+Name: plugins/libadf_plugin.dylib
+SHA-256-Digest: 9JDuwbVOTLSvQ3fCFFZzFWYMIyOQYfwL2qwOI0o+Fl0=
+
+Name: plugins/libnsv_plugin.dylib
+SHA-256-Digest: ab3mwST70JbRNbaoFcyFNLU/v5GaT+m+HtoGSHnkoUU=
+
+Name: plugins/libsubtitle_plugin.dylib
+SHA-256-Digest: jugudW5XQVGJZvgMT/DIAZslkeLj/O3P3xkYCUMpJLk=
+
+Name: plugins/libzvbi_plugin.dylib
+SHA-256-Digest: sO+q5V+Jn12MSIGphuezSvqIbhxgIMgiQICUd05WRhY=
+
+Name: plugins/libhqdn3d_plugin.dylib
+SHA-256-Digest: 3SBzJ5yt+ioU6x9E1vuimezNahJuY4wC4+EV+nc+u44=
+
+Name: plugins/libsharpen_plugin.dylib
+SHA-256-Digest: BMhB0XLexGd0jYPe0wAKvC/CkLv0JvIG3ZdN7krLnGM=
+
+Name: lib/libvlc.5.dylib
+SHA-256-Digest: z+nLctwvMl++2HZ3RNXgAcMe6ETCpKlOxmgobIbbo7U=
+
+Name: plugins/libimem_plugin.dylib
+SHA-256-Digest: EjEpP3PU652pEC7/C8qOa7kb9ShHI1u9xR12Bm23kew=
+
+Name: plugins/libscte18_plugin.dylib
+SHA-256-Digest: NHAJrDCTrNMb//CaxcEyrPhfrGqnKfAjIQ5359LRlTc=
+
+Name: plugins/libcache_read_plugin.dylib
+SHA-256-Digest: qJ+8oZMZzMvmlJGVFy1sur3VIVc3cYqm45Snm5cjfHI=
+
+Name: plugins/libi420_10_p010_plugin.dylib
+SHA-256-Digest: GOIkZhMf2FY5Y102FLhitLLuo44lFT6gT3nfZA1SR14=
+
+Name: plugins/libsamplerate_plugin.dylib
+SHA-256-Digest: 2UggD/jBLo/67FjdqbQoQCkh3HL6Rk5NfkneR0UrGH4=
+
+Name: plugins/libpva_plugin.dylib
+SHA-256-Digest: 0r91tMPGgfqEd4phXHmgylACirO9LZMAIQGeT4g8T8g=
+
+Name: plugins/libtcp_plugin.dylib
+SHA-256-Digest: L7zkV64/BEJoZAgB3ege0h5lB20O3nKVtVXsij+q/oU=
+
+Name: plugins/libdemux_stl_plugin.dylib
+SHA-256-Digest: M0QuLDglNyyjU6E4ZXU/tTbjN9HJC1tYQGdImedrSYY=
+
+Name: plugins/libgestures_plugin.dylib
+SHA-256-Digest: HMS2K9Fmsb5+R/xdvuBpZRyQnTVWXrnEMt8jWMDTP74=
+
+Name: plugins/libmpc_plugin.dylib
+SHA-256-Digest: UqmG8LbkpDPt4x9y2WkcBw6huTwKevpi6F+Rsw4UldI=
+
+Name: plugins/librawvideo_plugin.dylib
+SHA-256-Digest: pi90l0zy5nJ4JrjtdS4PGr10jv9oIqnVG6hRb6K3X50=
+
+Name: plugins/librawaud_plugin.dylib
+SHA-256-Digest: OLkZBQj2pYDXTwkbrzcROG4PDkTwZLHMEsA0bt7u45A=
+
+Name: plugins/libstl_plugin.dylib
+SHA-256-Digest: d3MB3wL33gIWi5xF9APwUwP4OkK7U7Udac2zHsnX2Uk=
+
+Name: plugins/libi420_nv12_plugin.dylib
+SHA-256-Digest: 5xOORRUEUfDIMyXXvZ5ALoMhZAyhJisNRNkNT+Bme5k=
+
+Name: plugins/libgrain_plugin.dylib
+SHA-256-Digest: xGHN/Ea+CCQtYksO2ztH871UrW67Catyj6XmnU6TANE=
+
+Name: plugins/liblua_plugin.dylib
+SHA-256-Digest: 8Vn51fFWssrYzesI5FOONBvdbRHPn23MQnPSZBKzetc=
+
+Name: plugins/libdynamicoverlay_plugin.dylib
+SHA-256-Digest: hijQrjIofqM2bEcsh/XYTGV/MD+o3x5GBHbMvtaTuOA=
+
+Name: plugins/libkaraoke_plugin.dylib
+SHA-256-Digest: Gk4ZXXQKXt0b73Si6JkoZ67d3WUpIUDTtyiY5wcxd8M=
+
+Name: plugins/libglconv_cvpx_plugin.dylib
+SHA-256-Digest: bu3upo/qyTBtijfDKvfFed1N4oZAiw3g+b5w0PQjJVg=
+
+Name: plugins/libpng_plugin.dylib
+SHA-256-Digest: VT9u8HU7lMjD/U/YmhCzfrOgwjCRt/3QWaFFlcK22iU=
+
+Name: plugins/libwave_plugin.dylib
+SHA-256-Digest: tyGR/VliZz9dVqGpDTNZvVpUrTHlP+3f+5kPMf0rQTQ=
+
+Name: plugins/libblendbench_plugin.dylib
+SHA-256-Digest: RXSuOzkf4d5OZlwhCBMjzZLlcYyg3HEyCdZFe7yyfYQ=
+
+Name: plugins/libavi_plugin.dylib
+SHA-256-Digest: BABijb4oNzDfEOVjB6HaVmxFo0NdCTQaSo35BLZpN4Y=
+
+Name: plugins/libdummy_plugin.dylib
+SHA-256-Digest: cmZ2p56bfjK6Tu5Ep6ntWwNNNogTGoiPnE8KYqLjvr8=
+
+Name: plugins/libsap_plugin.dylib
+SHA-256-Digest: zXakQVoTTXtCjTkeCj7dpSOFKzXt7l1KItdo6HaNSrE=
+
+Name: plugins/libstream_out_transcode_plugin.dylib
+SHA-256-Digest: wZLSyQ+cjMHcSJezFhcF/S+d9oHKm9OpRU9mEfoI6wk=
+
+Name: plugins/liblogo_plugin.dylib
+SHA-256-Digest: w+OQEN0xPgLcBZludjqNhTK4Gb8yRFKruoRnsQBMMLk=
+
+Name: plugins/libsimple_channel_mixer_plugin.dylib
+SHA-256-Digest: an1+mcvT3j9imz3fnD5H0y1YQd2dxeYn0awElUgxd1w=
+
+Name: plugins/libblend_plugin.dylib
+SHA-256-Digest: +AlNPy7G6LLoqqomiYvvLXSqdiODTHvjP6dsg73O9OM=
+
+Name: plugins/liblive555_plugin.dylib
+SHA-256-Digest: LYvtiUn9d8GdkK2oeqaZGtAyh0fo9VANiWs29y8xnAc=
+
+Name: plugins/libhotkeys_plugin.dylib
+SHA-256-Digest: kGpYsQTJ6BflXN84s++ao28MKDtSgrRVBjVTzocfIFA=
+
+Name: plugins/libfilesystem_plugin.dylib
+SHA-256-Digest: wiY/3LTBraDaziV9gkOmxV9P+IcuPdALQLPAjgiSHOA=
+
+Name: plugins/libadpcm_plugin.dylib
+SHA-256-Digest: K0VNbo5cs++8bCo3WubfUmjDRrUr6IwjTmCO+Tgi+2A=
+
+Name: plugins/libvod_rtsp_plugin.dylib
+SHA-256-Digest: GJZs3TUdDmJ3DYOg27xZovBzmszJ/i/nRZ70By6pVaQ=
+
+Name: plugins/libaccess_srt_plugin.dylib
+SHA-256-Digest: fEsTaaoQ3I6J9L7IQ4+XMs6aisjd7kYec2LVqbAl/3Q=
+
+Name: plugins/libsvcdsub_plugin.dylib
+SHA-256-Digest: eGnZJLogrT0JgR0mOqk620fsyYTHYspkJ5EjxRltpU4=
+
+Name: plugins/libnuv_plugin.dylib
+SHA-256-Digest: 7gHK4jAmtn8oj78yQ5Zf0YC2PuMFgPCnMnuXKMpybJs=
+
+Name: plugins/libsecuretransport_plugin.dylib
+SHA-256-Digest: bIigQe5dBbv8hdx1H3xipkVntC2adVK7Dn47Kf1jlcw=
+
+Name: plugins/libwebvtt_plugin.dylib
+SHA-256-Digest: rU0rgBtqw+oXa2mzC4bbNIoDsYLqQQJvqHCWyqiLxAY=
+
+Name: plugins/libsepia_plugin.dylib
+SHA-256-Digest: AQUGqZ/sBQCYGnn4/k+JuHUDCir+TJpWdecBaktdf3U=
+
+Name: plugins/libaddonsvorepository_plugin.dylib
+SHA-256-Digest: +5kvtJgizdv+tuw/kiwBOG5YZGIni08GPy3xACwSi0A=
+
+Name: plugins/libstereo_widen_plugin.dylib
+SHA-256-Digest: FdykwbhrVwc4ck9Kqj3QNq1P4blW7jmqJLCziCD4cgE=
+
+Name: plugins/libflaschen_plugin.dylib
+SHA-256-Digest: yOmMQ5i8/wEK20A1699GCWG8ilG3BEGxgWwoxiqS6e0=
+
+Name: plugins/libtaglib_plugin.dylib
+SHA-256-Digest: OrnBPDlNIXXnXn7MYvzRwOCOkrhkKytQPeDNo12UZF4=
+
+Name: plugins/libmirror_plugin.dylib
+SHA-256-Digest: S9Iza+dkmN2hhAKuqK7r7Wnv3xFY9EHp0gdBzhr5XJ4=
+
+Name: plugins/libaccess_realrtsp_plugin.dylib
+SHA-256-Digest: ve0BCtOHrUBETKD4rtBtKuLxsKHHcpCocDER9usE5RA=
+
+Name: plugins/libnoseek_plugin.dylib
+SHA-256-Digest: +GT9XkpdWf0w4ggQgz0m/LUhyASOqe/EKxm4j3xwGtA=
+
+Name: plugins/libfile_keystore_plugin.dylib
+SHA-256-Digest: 2Nqj6EsRNDf/NJEfzWOWzBXqwH93ebwjO6RYPz5/LlY=
+
+Name: plugins/libvpx_plugin.dylib
+SHA-256-Digest: Tke+TcCDhyo0u1DIyDlXc5cV+wB0Ew9MHSpM/tqFxrk=
+
+Name: plugins/libcdg_plugin.dylib
+SHA-256-Digest: JFf1vSQ2+zK/Hv74uXytCsAb/8h9fF3C/LtYGebhcS0=
+

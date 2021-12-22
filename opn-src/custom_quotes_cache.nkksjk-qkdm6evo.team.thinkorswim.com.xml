@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<PREFERENCES VERSION="6">
+  <CUSTOM_QUOTES_CACHE>
+    <QUOTE-0 AGG_PERIOD="m" CANDLE_SESSION="false" CODE="# Higher Highs checks the charts to see if the last 3 bars&#10;# are closing higher.  This script was built for a &#10;# watchlist.&#10;# I will make one for scanners soon.&#10;# Author: TechRancher&#10;# Date: April, 2021&#10;# Follow Me on GitHub https://www.github.com/TechRancher&#10;# To read the README.md: https://www.github.com/TechRancher/Higher_Hights&#10;&#10;# User Input&#10;# No User Input&#10;&#10;# Define Variables&#10;def hi = close;&#10;&#10;# Define Plot&#10;plot trigger;&#10;    if hi[3] &lt; hi[2] and hi[2] &lt; hi[1] and hi[1] &lt; hi then {&#10;        trigger = hi;&#10;    } else {&#10;        trigger = 0;&#10;    };&#10;AssignBackgroundColor(if trigger then color.BLUE else color.BLACK);" INDEX="0" NAME="Higher_Highs" PRICE_TYPE="last" VERSION="8022"/>
+  </CUSTOM_QUOTES_CACHE>
+</PREFERENCES>

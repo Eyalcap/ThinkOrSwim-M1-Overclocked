@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<jnlp spec="1.0" codebase="https://198.200.170.235/suit/" href="https://198.200.170.235/suit/suit.jnlp?whitelabel=tos">
+	<information>
+		<title>Thinkorswim Suit</title>
+		<vendor>Thinkorswim</vendor>
+		<version>1972.1.9</version>
+	</information>
+	<security>
+		<all-permissions/>
+	</security>
+	<resources>
+        <j2se version="1.7+" href="http://java.sun.com/products/autodl/j2se"/>
+		<jar href="VeracodeAnnotations-1.2.1.jar" size="11450" md5="5e34996877146da9cdaea45146f0e11c" version="1972.1.9" main="false"/>
+		<jar href="launcher.jar" size="16091" md5="bb4c9cf7bdc44a9b0e5e0c1f82e7cb9" version="1972.1.9" main="false"/>
+		<jar href="svg-salamander-1.1.2.2.jar" size="314010" md5="c44915411a3afcef8d4fc853b5c1989f" version="1972.1.9" main="false"/>
+		<jar href="tos-suit-1972.1.9.jar" size="9808427" md5="7d5e585caeb18f3ae5a234934ceb4b" version="1972.1.9" main="true"/>
+		<jar href="tos-updater-base-1972.1.9.jar" size="17532" md5="6d5298d1ef70cd2e30178d87be9f4df6" version="1972.1.9" main="false"/>
+		<jar href="toscommon-client-513.2.jar" size="259227" md5="f13df13b58bfaac5f54d4de4426d236e" version="1972.1.9" main="false"/>
+		<jar href="tzdata-20180503.jar" size="359434" md5="5c1b8c49038c2f8632817aaf6e2064" version="1972.1.9" main="false"/>
+		<jar href="ziupdater-1.0.1.2.jar" size="284874" md5="ed1a34a01d95d07aa9b28d7556b293d9" version="1972.1.9" main="false"/>
+	</resources>
+    <application-desc main-class="com.devexperts.jnlp.UpdateManager"/>
+</jnlp>

@@ -1,0 +1,152 @@
+#! /bin/bash
+
+
+
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+function hello {
+	
+	printf '\e[8;23;134t'
+	clear
+	# Regular Colors
+	Black='\033[0;30m'        # Black
+	Red='\033[0;31m'          # Red
+	Green='\033[0;32m'        # Green
+	Yellow='\033[0;33m'       # Yellow
+	Blue='\033[0;34m'         # Blue
+	Purple='\033[0;35m'       # Purple
+	Cyan='\033[0;36m'         # Cyan
+	White='\033[0;37m'        # White
+	
+	# Bold
+	BBlack='\033[1;30m'       # Black
+	BRed='\033[1;31m'         # Red
+	BGreen='\033[1;32m'       # Green
+	BYellow='\033[1;33m'      # Yellow
+	BBlue='\033[1;34m'        # Blue
+	BPurple='\033[1;35m'      # Purple
+	BCyan='\033[1;36m'        # Cyan
+	BWhite='\033[1;37m'       # White
+	
+	# Underline
+	UBlack='\033[4;30m'       # Black
+	URed='\033[4;31m'         # Red
+	UGreen='\033[4;32m'       # Green
+	UYellow='\033[4;33m'      # Yellow
+	UBlue='\033[4;34m'        # Blue
+	UPurple='\033[4;35m'      # Purple
+	UCyan='\033[4;36m'        # Cyan
+	UWhite='\033[4;37m'       # White
+	
+	# Background
+	On_Black='\033[40m'       # Black
+	On_Red='\033[41m'         # Red
+	On_Green='\033[42m'       # Green
+	On_Yellow='\033[43m'      # Yellow
+	On_Blue='\033[44m'        # Blue
+	On_Purple='\033[45m'      # Purple
+	On_Cyan='\033[46m'        # Cyan
+	On_White='\033[47m'       # White
+	
+	# High Intensity
+	IBlack='\033[0;90m'       # Black
+	IRed='\033[0;91m'         # Red
+	IGreen='\033[0;92m'       # Green
+	IYellow='\033[0;93m'      # Yellow
+	IBlue='\033[0;94m'        # Blue
+	IPurple='\033[0;95m'      # Purple
+	ICyan='\033[0;96m'        # Cyan
+	IWhite='\033[0;97m'       # White
+	
+	# Bold High Intensity
+	BIBlack='\033[1;90m'      # Black
+	BIRed='\033[1;91m'        # Red
+	BIGreen='\033[1;92m'      # Green
+	BIYellow='\033[1;93m'     # Yellow
+	BIBlue='\033[1;94m'       # Blue
+	BIPurple='\033[1;95m'     # Purple
+	BICyan='\033[1;96m'       # Cyan
+	BIWhite='\033[1;97m'      # White
+	fg_black='\033[30m'
+	fg_red='\033[31m'
+	fg_green='\033[32m'
+	fg_yellow='\033[33m'
+	fg_blue='\033[34m'
+	fg_purple='\033[35m'
+	fg_cyan='\033[36m'
+	fg_white='\033[37m'
+	
+	bg_black='\033[40m'
+	bg_red='\033[41m'
+	bg_green='\033[42m'
+	bg_yellow='\033[43m'
+	bg_blue='\033[44m'
+	bg_purple='\033[45m'
+	bg_cyan='\033[46m'
+	bg_white='\033[47m'	
+	# High Intensity backgrounds
+	On_IBlack='\033[0;100m'   # Black
+	On_IRed='\033[0;101m'     # Red
+	On_IGreen='\033[0;102m'   # Green
+	On_IYellow='\033[0;103m'  # Yellow
+	On_IBlue='\033[0;104m'    # Blue
+	On_IPurple='\033[0;105m'  # Purple
+	On_ICyan='\033[0;106m'    # Cyan
+	On_IWhite='\033[0;107m'   # White
+	NC='\033[0m' # No Color
+	printf "${bg_white}"
+	printf '\e[8;23;134t'
+	clear
+	printf '\e[8;23;134t'
+	printf """${fg_black}\033[2m 
+            .________._   _ .____  .__    _  ._  ___     .____   .____     ._____  ._  __  ___ .____ .____    __ 
+            |__    __: |_| ||____||   \  | ||  |/ /     /  _  \ |  __  |   |   ___||  \/  \|  ||____|:    \  /  |
+              |  :| |      ||    ||    \ |:||    \     |  | |  ||      |    '-. '-.|          ||    ||     \/   |
+              |   | |   _  ||    ||:    \| ||     \    |  | |  ||  |\  \       |   ||    /\   ||    ||          |
+              |   | |   _  ||    ||:    \| ||  |\  \   |  |_|  ||  |\   \    .-'   ||    /\   ||    ||          |
+              |___| |__| |_||____||__/\____||__| \__\   \_____/ |__| \___\  |______||___/  \__||____||__/\__/|__|
+                                   :          :                             :                           :                     
+        .________.___ .___    .___ ._______ ._______  .______       ._______.______  .___ _____._.___ ._______  .______  
+        |    ___/: __||   |   : __|:_.  ___\: .___  \ :      \      : .____/:_ _   \ : __|\__ _:|: __|: .___  \ :      \ 
+        |___    \| : ||   |   | : ||  : |/\ | :   |  ||       |     | : _/\ |   |   || : |  |  :|| : || :   |  ||       |
+        |       /|   ||   |/\ |   ||    /  \|     :  ||   |   |     |   /  \| . |   ||   |  |   ||   ||     :  ||   |   |
+        |__:___/ |   ||   /  \|   ||. _____/ \_. ___/ |___|   |     |_.: __/|. ____/ |   |  |   ||   | \_. ___/ |___|   |
+           :     |___||______/|___| :/         :/         |___|        :/    :/      |___|  |___||___|   :/         |___|
+                            :          :                             :                           :               
+                                            ${BBlack}Created by CodeInFilth @ Github.com${NC}
+${NC}"""
+printf '\e[8;23;134t'
+printf """
+
+"""
+printf '\e[8;23;134t'
+	cd $DIR
+	printf '\e[8;23;134t'
+	cd mone/
+	printf '\e[8;23;134t'
+	printf "${bg_white}${BIYellow}"
+	printf '\e[8;23;134t'
+	printf """.------------------------------------------------------------------------------------------------------------------------------------.${NC}${bg_white}
+${BIYellow}|${NC}${bg_white}    \033[5m                   ${bg_white}${BIRed}Please ignore the following warnings as they are expected when running the app this way.${NC}${bg_white}                     ${BIYellow}${bg_white}|${NC}
+${bg_white}${BIYellow}.------------------------------------------------------------------------------------------------------------------------------------.${NC}${bg_white}
+${fg_black}"""
+printf '\e[8;23;134t'
+
+
+sudo java -jar launcher.jar
+printf '\e[8;23;134t'
+printf "\033[m"
+printf '\e[8;23;134t'
+printf """${bg_white}${BIRed}
+.----------------------------------------------------------------------------------------------------------------------------------.
+${bg_white}|                       \033[38;5;242m Please donate and help me eat!!! Check in January 2022 for more M1 tools for quants                        ${BIRed}|
+|-----------------------------------------------------------------------------------------------------------------------------------|
+|                                                            Version 1.2                                                            |
+|.                                                          Dec 21st 2021                                                           |
+.-----------------------------------------------------------------------------------------------------------------------------------.
+"""	
+	printf '\e[8;23;134t'
+	read key
+}
+
+hello
